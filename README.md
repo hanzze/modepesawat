@@ -14,6 +14,6 @@ sleep 30 && nohup sh pesawat.sh > internet_log.txt 2>&1 &
 ```
 #trus save dan kalian coba resetart stb kalian.. 
 
-#ingat yah ini cek ping nya interval nya 7 detik jadi cepet banget serasa nggk ada dc
+#ingat yah ini cek ping intervalnya 7 detik jadi cepet banget serasa nggk ada dc
 
-#kalau kalian mau rubah silahkan.. di dalam script bawah sendiri ada sleep 7.. kalian rubah sesuai kalian
+#kalau kalian mau rubah silahkan.. di dalam script bawah sendiri ada sleep 7.. kalian rubah sesuai kalian mau..
